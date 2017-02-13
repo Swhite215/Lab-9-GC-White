@@ -1,0 +1,9 @@
+jQuery storing variables.
+
+$selectorVariable = $("selector");
+
+$selectorVariable.fadeTo('slow', 0.5);
+
+var body = document.body;
+
+var $body = $("body");

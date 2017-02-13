@@ -1,0 +1,77 @@
+/*.brand {
+  max-width: 30%;
+  max-height: 40px;
+  overflow: visible;
+  padding-top: 0;
+  padding-bottom: 0;
+}*/
+
+.shapeMove {
+  width: 100%;
+  height: 25%;
+  border: 2px solid white;
+  margin-right: 5%;
+}
+
+.shapeFade {
+  width: 100%;
+  height: 25%;
+  margin-top: 5%;
+  margin-right: 5%;
+  border: 2px solid white;
+}
+
+div#outFade {
+  background-color: lightblue;
+}
+
+div#inFade {
+  color: #add8e6;
+  background-color: #add8e6;
+  border: 2px solid white;
+}
+
+div#toFade {
+  background-color: lightblue;
+}
+
+div#inFade.notClear {
+  color: black;
+  background-color: white;
+  border: 2px solid white;
+}
+
+#inFade {
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -o-transition: all 2s ease;
+    transition: all 2s ease;
+}
+
+.shapeSlide {
+  width: 100%;
+  height: 25%;
+  margin-top: 5%;
+  margin-right: 5%;
+  border: 2px solid white;
+}
+
+.navbar-default {
+  background-color: #add8e6 !important;
+}
+
+ul.navbar-nav li {
+  height: 50px !important;
+  width: 200px !important;
+  font-size: 110% !important;
+  color: black !important;
+  border: 1px solid white !important;
+}
+
+.change {
+  background-color: silver !important;
+}
+
+body {
+  background-color: #add8e6 !important;
+}
