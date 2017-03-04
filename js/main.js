@@ -74,7 +74,7 @@ $(document).ready(function() {
     $("#rightDiv").animate({left: "+=10px"});
   });
 
-  //Lab Work
+  //Nav jQuery
   $("li").hover(function() {
     $(this).fadeTo(500,0.25);
   });
