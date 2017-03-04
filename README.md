@@ -5,4 +5,4 @@ jQuery Experimentation
 jQuery exploration involving listeners, element selection, and animate.
 
 ## Tools: 
-jQuery, HTML, CSS
+HTML, CSS, jQuery
