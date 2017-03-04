@@ -1,5 +1,8 @@
-## Project Title: jQuery Experimentation
+## Project Title: 
+jQuery Experimentation
 
-## Description: jQuery exploration involving listeners, element selection, and animate.
+## Description: 
+jQuery exploration involving listeners, element selection, and animate.
 
-## Tools: jQuery, HTML, CSS
+## Tools: 
+jQuery, HTML, CSS
